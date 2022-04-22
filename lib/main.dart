@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:interview_task/ui/homeNew.dart';
 import 'package:interview_task/utils/StringFile.dart';
 
 import 'ui/home_page.dart';
